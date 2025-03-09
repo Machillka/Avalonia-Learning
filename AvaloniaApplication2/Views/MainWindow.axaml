@@ -26,6 +26,13 @@
             </TextBlock>
         </Border>
 
+        <Grid ShowGridLines="True" Margin="5" 
+              ColumnDefinitions="120, 100"
+              RowDefinitions="Auto, Auto, Auto">
+            <Label Grid.Row="0" Grid.Column="0">001</Label>
+            <TextBox Grid.Row="0" Grid.Column="1"></TextBox>
+        </Grid>
+        
         <Button HorizontalAlignment="Center">Calculate</Button>
     </StackPanel>
 </Window>

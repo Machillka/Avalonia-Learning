@@ -65,3 +65,4 @@ E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\r
 E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\Avalonia.F51675D9.Up2Date
 E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\AvaloniaApplication2.genruntimeconfig.cache
 E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\ref\AvaloniaApplication2.dll
+E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\AvaloniaApplication2.sourcelink.json

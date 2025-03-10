@@ -2,6 +2,8 @@ using Avalonia.Controls;
 
 using Avalonia.Interactivity;
 using System.Diagnostics;
+using System.Text; 
+using System;
 
 namespace AvaloniaApplication2.Views;
 
@@ -14,6 +16,11 @@ public partial class MainWindow : Window
     
     private void ButtonOnClick(object? sender, RoutedEventArgs e)
     {
-        Debug.WriteLine("Hello, Avalonia!");
+        // Debug.WriteLine("Hello, Avalonia!");
+        if (Double.TryParse(numberA.Text, out double tempA) && Double.TryParse(numberB.Text, out double tempB))
+        {
+            double result = tempA + tempB;
+            resultNumber.Text = result.ToString();
+        }
     }
 }

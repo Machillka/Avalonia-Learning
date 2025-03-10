@@ -1,13 +1,11 @@
-using Avalonia.Controls;
+using SukiUI.Controls;
 
 using Avalonia.Interactivity;
-using System.Diagnostics;
-using System.Text; 
 using System;
 
 namespace AvaloniaApplication2.Views;
 
-public partial class MainWindow : Window
+public partial class MainWindow : SukiWindow
 {
     public MainWindow()
     {

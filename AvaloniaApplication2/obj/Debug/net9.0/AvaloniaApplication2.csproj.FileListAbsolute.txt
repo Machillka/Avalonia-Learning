@@ -66,3 +66,5 @@ E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\A
 E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\AvaloniaApplication2.genruntimeconfig.cache
 E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\ref\AvaloniaApplication2.dll
 E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\obj\Debug\net9.0\AvaloniaApplication2.sourcelink.json
+E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\bin\Debug\net9.0\SukiUI.dll
+E:\AvaloniaProjects\AvaloniaApplication2\AvaloniaApplication2\bin\Debug\net9.0\System.Linq.Dynamic.Core.dll
